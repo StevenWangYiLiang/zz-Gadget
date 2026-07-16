@@ -1,0 +1,10 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Node
+node_modules/
+
+# Superpowers scratch
+.superpowers/
